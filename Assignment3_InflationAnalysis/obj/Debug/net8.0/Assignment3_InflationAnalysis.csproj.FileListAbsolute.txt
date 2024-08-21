@@ -1,0 +1,14 @@
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\bin\Debug\net8.0\Assignment3_InflationAnalysis.exe
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\bin\Debug\net8.0\Assignment3_InflationAnalysis.deps.json
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\bin\Debug\net8.0\Assignment3_InflationAnalysis.runtimeconfig.json
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\bin\Debug\net8.0\Assignment3_InflationAnalysis.dll
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\bin\Debug\net8.0\Assignment3_InflationAnalysis.pdb
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.AssemblyInfoInputs.cache
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.AssemblyInfo.cs
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.csproj.CoreCompileInputs.cache
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.dll
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\refint\Assignment3_InflationAnalysis.dll
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.pdb
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\Assignment3_InflationAnalysis.genruntimeconfig.cache
+D:\PKCSIT-GIT\NETlearning_Ashmitagurung\Assignment3_InflationAnalysis\obj\Debug\net8.0\ref\Assignment3_InflationAnalysis.dll
